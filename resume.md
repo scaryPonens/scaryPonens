@@ -1,4 +1,3 @@
-```markdown
 # Reuben Peter-Paul
 **Experienced Technical Lead and Software Developer**
 
@@ -68,4 +67,4 @@ Available upon request.
 - **Phone:** (506) 897-2101 (primary)
 - **Email:** [reuben.peterpaul@protonmail.com](mailto:reuben.peterpaul@protonmail.com)
 - **LinkedIn:** [linkedin.com/in/reubenPeterPaul](http://ca.linkedin.com/in/reubenpeterpaul)
-```
+
